@@ -1,17 +1,17 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: Abdul Qayoom
+description: Backend Developer
+site_title: Abdul Qayoom's Portfolio
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
-blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
+github_username: qayoom685
+# blog_url: https://www.nagekar.com
+email: qayoomk013@gmail.com
+# keybase_username: abhn
+twitter_username: akyum4
 reddit_username: abhn
 
 # absolute or relative
