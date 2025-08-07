@@ -12,22 +12,22 @@ let render_projects = (slug) => {
     let projects_obj = [
         {
             // image: 'assets/images/mentors.jpg',
-            link: 'https://github.com/r',
+            link: 'https://github.com/AbdullahSafwan/erp',
             title: 'ERP/CRM for B2C businesses',
-            demo: 'https://github.com/AbdullahSafwan/erp',
+            // demo: 'https://github.com/AbdullahSafwan/erp',
             technologies: ['TypeScript', 'Node.js'],
             description: "This project is a Node.js-based ERP (Enterprise Resource Planning) system designed to manage and streamline business operations. It includes features such as user authentication, booking management, delivery tracking, resource allocation, and customer communication. The system is built with scalability and maintainability in mind, using a modular architecture.",
             categories: ['featured', 'Business']
         },
-        // {
-        //     image: 'assets/images/mobile-landscape.jpg',
-        //     link: 'https://github.com/abhn/Wall-E',
-        //     title: 'Wall-E',
-        //     demo: 'http://wall-e-jekyll.github.io/',
-        //     technologies: ['Semantic UI', 'Jekyll'],
-        //     description: "A modern Jekyll theme with grid frontpage, beautiful typography, mobile responsive, made with Semantic UI.",
-        //     categories: ['featured', 'webdev']
-        // },
+        {
+            // image: 'assets/images/mobile-landscape.jpg',
+            link: 'https://github.com/qayoom685/Crud-',
+            title: 'REST Framework with CRUD operations',
+            // demo: 'https://github.com/qayoom685/Crud-',
+            technologies: ['Python', 'Django'],
+            description: "Create Rest API with CRUD operations using Django Rest Framework. This project provides a simple and efficient way to manage data with basic create, read, update, and delete functionalities.",
+            categories: ['featured', 'Rest API']
+        },
         // {
         //     image: 'assets/images/collage.jpg',
         //     link: 'https://github.com/abhn/Marvel',
