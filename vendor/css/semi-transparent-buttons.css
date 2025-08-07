@@ -57,21 +57,3 @@
   cursor: pointer;
 }
 
-.contact-button {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    padding: 8px 16px;
-    margin: 8px 8px 0 0;
-    text-decoration: none;
-    border: 1px solid #ccc;
-    border-radius: 6px;
-    font-size: 16px;
-    color: #333;
-    transition: background 0.2s, color 0.2s;
-}
-
-.contact-button:hover {
-    background-color: #ccc;
-    color: #333;
-}
